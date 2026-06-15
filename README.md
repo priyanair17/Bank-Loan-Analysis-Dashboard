@@ -132,11 +132,11 @@ Identifies major loan utilization categories such as:
 
 ### Excel Dashboard
 
-(Add Screenshot Here)
+![Excel Dashboard](Screenshots/Excel_Dashboard.png)
 
 ### Power BI Dashboard
 
-(Add Screenshot Here)
+![Power BI Dashboard](Screenshots/PowerBI_Dashboard.png)
 
 ---
 
