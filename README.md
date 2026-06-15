@@ -1,6 +1,6 @@
 # 📊 Bank Loan Analysis Dashboard
 
-## Overview
+## 📋 Overview
 
 This project focuses on analyzing bank loan data to identify lending patterns, repayment behavior, customer profiles, and potential risk indicators.
 
@@ -8,7 +8,7 @@ The solution was developed using both **Microsoft Excel (Power Pivot, Power Quer
 
 ---
 
-## Business Objective
+## 🎯 Business Objective
 
 Financial institutions require continuous monitoring of loan portfolios to evaluate customer behavior, repayment performance, and overall lending trends.
 
@@ -23,7 +23,7 @@ This dashboard helps stakeholders:
 
 ---
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 
 ### Excel Dashboard
 
@@ -45,7 +45,7 @@ This dashboard helps stakeholders:
 
 ---
 
-## Dataset Information
+## 📂 Dataset Information
 
 | Attribute    | Details                        |
 | ------------ | ------------------------------ |
@@ -57,7 +57,7 @@ This dashboard helps stakeholders:
 
 ---
 
-## Key Performance Indicators (KPIs)
+## 📈 Key Performance Indicators (KPIs)
 
 ### Excel Dashboard
 
@@ -78,7 +78,7 @@ This dashboard helps stakeholders:
 
 ---
 
-## Dashboard Insights
+## 💡 Dashboard Insights
 
 ### 1. Year-wise Loan Amount Analysis
 
@@ -113,7 +113,7 @@ Identifies major loan utilization categories such as:
 
 ---
 
-## Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 * Data Cleaning
 * Data Transformation
@@ -128,7 +128,7 @@ Identifies major loan utilization categories such as:
 
 ---
 
-## Dashboard Screenshots
+## 🖼 Dashboard Screenshots
 
 ### Excel Dashboard
 
@@ -140,7 +140,7 @@ Identifies major loan utilization categories such as:
 
 ---
 
-## Project Outcomes
+## 📌 Project Outcomes
 
 * Improved visibility into loan performance metrics
 * Identified repayment and default trends
@@ -149,6 +149,6 @@ Identifies major loan utilization categories such as:
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 Priya Nair
